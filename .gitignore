@@ -1,0 +1,8 @@
+/__pycache__
+
+/online_bidding/auctions/migrations/*
+/online_bidding/__pycache__
+/online_bidding/online_bidding/__pycache__
+/online_bidding/auctions/__pycache__
+
+/online_bidding/db.sqlite3
